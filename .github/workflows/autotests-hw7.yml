@@ -27,7 +27,7 @@ jobs:
 
       - uses: actions/checkout@v4
         with:
-          repository: central-university-dev/hse-autotests
+          repository: evevseev/the-bank-tests
           ref: main
           path: tests
 
